@@ -1,3 +1,23 @@
-.grid {
-  display: flex;
+@media only screen and (min-width: 60em) {
+
+
+
+}
+
+.btn-ghost {
+
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.btn {
+  color: white;
+  border: #0084a6;
+}
+
+.btn:hover {
+  background-color: white;
+  color: white;
 }
