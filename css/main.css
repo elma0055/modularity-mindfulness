@@ -1,12 +1,13 @@
 html {
   font-family: "Noto Sans", sans-serif;
+  color: #000;
 }
 
 .font-jp {
   font-family: "Noto Sans Japanese", sans-serif;
 }
 
-.nav a {
+.nav {
   color: #005e76;
   text-decoration: none;
   border-bottom: .1em solid #8bc9d9;
