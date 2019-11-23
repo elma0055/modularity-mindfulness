@@ -13,7 +13,7 @@ html {
   border-bottom: .1em solid #8bc9d9;
 }
 
-.nav a:hover {
+.nav:hover {
   border-color: #0084a6;
   color: #005e76;
 }
@@ -45,8 +45,11 @@ footer {
     text-align: left;
   }
 
-  .nav {
+  .nav-2 {
     text-align: right;
+    padding-right: 1em;
+    padding-top: 2em;
+    padding-bottom: 1.5em;
   }
 
 }
